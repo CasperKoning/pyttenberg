@@ -44,6 +44,7 @@ Using eight colors, as you would have with a Battenberg cake of Battenberg cakes
 Using 256 colors:
 
 `python3 pyttenberg.py 256`
-![256_colors](/examples/output_256_colors.png)
+<img src="/examples/output_256_colors.png" width="100">
 
 Using 1024 colors:
+![1024_colors](/examples/output_1024_colors.png)
