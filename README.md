@@ -4,8 +4,7 @@
 This is a little tool for generating pictures that are inspired by Battenberg cakes.
 I was inspired by an excellent [talk](https://www.youtube.com/watch?v=j7BArZJxL9M) on abstract Mathematics by Dr Eugenia
 Cheng, where she, among other things, talks about Battenberg cakes, iterated Battenberg cakes, and representing said
-Battenberg cakes with a Tree datastructure. In this implementation I limited myself to using Trees as well, which lead
-to an implementation with horrible performance, but is conceptually very easy to follow.
+Battenberg cakes with a Tree datastructure.
 
 ## Dependencies
 
