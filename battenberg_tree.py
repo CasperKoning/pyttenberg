@@ -32,4 +32,4 @@ class BattenbergLeaf:
         self.value = value
 
     def _fill_pixels(self, matrix, x, y):
-        matrix[x, y, :] = self.value.to_array()
+        matrix[int(x), int(y), :] = self.value.to_array()
