@@ -16,7 +16,7 @@ def make_list_of_unique_colors(number_of_colors):
 
 
 def plot_battenberg_tree(tree, output_path):
-    fig = plt.figure(figsize=(10,10), dpi=200)
+    fig = plt.figure(figsize=(10, 10), dpi=200)
     ax = plt.Axes(fig, [0., 0., 1., 1.], autoscale_on=False, frameon=False)
     ax.tick_params(axis='both', which='both', bottom='off', top='off', labelbottom='off')
     fig.add_axes(ax)
